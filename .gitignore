@@ -1,7 +1,6 @@
 # Internal notes and tooling are not part of the published site.
 .MDs/
 .Archieve/
-src/.MDs/
 .playwright-mcp/
 *.log
 
