@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /.MDs/
+Disallow: /.Archieve/
+Disallow: /src/
+
+Sitemap: https://doctor-profile-pakistan.github.io/foot-pain-specialist-lahore/sitemap.xml
